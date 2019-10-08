@@ -21,7 +21,6 @@ I may employ third-party companies and individuals due to the following reasons:
 
 *   To facilitate my App;
 *   To provide the App on my behalf;
-*   To perform App-related Apps; or
 *   To assist me in analyzing how my App is used.
 
 I want to inform users of this App that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on my behalf. However, they are obligated not to disclose or use the information for any other purpose.
