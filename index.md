@@ -28,7 +28,6 @@ I want to inform users of this App that these third parties have access to your 
 ---
 
 **Security**
-
 I value your trust in providing me your Personal Information, thus I seek to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
 ---
 
