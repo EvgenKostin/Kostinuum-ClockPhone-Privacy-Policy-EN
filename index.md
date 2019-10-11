@@ -1,4 +1,5 @@
 ## Privacy Policy
+###### Last update: October 2019.
 
 Built the ClockPhone app as a Free app.
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my App.
